@@ -1,0 +1,148 @@
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.voffset2  { margin-top: 2px; }
+.voffset5 { margin-top: 5px; }
+.voffset10 { margin-top: 10px; }
+.voffset15 { margin-top: 15px; }
+.voffset30 { margin-top: 30px; }
+.voffset40 { margin-top: 40px; }
+.voffset60 { margin-top: 60px; }
+.voffset80 { margin-top: 80px; }
+.voffset100 { margin-top: 100px; }
+.voffset150 { margin-top: 150px; }
+a 
+{
+    color: white;
+}
+h5 
+{
+    color: white;
+}
+
+.logo 
+{
+	width:258px;
+}
+#head .tagline 
+{
+	font-size:54px;
+} 
+.logo-mfkz
+{
+  width: 140px;
+}
+
+.navbar-inverse 
+{
+  border-color: #336699;
+}
+.navbar 
+{
+    background-color: #336699;
+}
+.nav > li > a:hover, .nav > li > a:focus 
+{
+  text-decoration: none;
+  background-color: #eee;
+}
+.navbar-inverse .navbar-nav > li > a 
+{
+  color: aliceblue;
+}
+
+#topheader 
+{ 
+    background-color: #5288DB; 
+    color: white; 
+} 
+#sidebar 
+{ 
+    background-color: #999999; 
+    min-height: 600px; 
+} 
+#footer 
+{ 
+    background-color: #336699; 
+    text-align: center; 
+}
+
+form {
+   text-align: right;
+}
+input, textarea{
+    background-color:#F5F5F5;
+    color: #003366;
+}
+.form-group {
+    text-align: left;
+}
+.form-control {
+    color: white;
+}
+.form-control::-webkit-input-placeholder { color: rgba(255, 255, 255, 0.70); }
+.form-control:-moz-placeholder { color: rgba(255, 255, 255, 0.80); }
+.form-control::-moz-placeholder { color: rgba(255, 255, 255, 0.80); }
+.form-control:-ms-input-placeholder { color: rgba(255, 255, 255, 0.80); }
+
+.form-control {
+   background-color:rgba(14, 14, 14, 0.50);
+}
+
+legend {
+  border: none;
+}
+
+
+
+
+.validator {
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.CustomerDetaiViewHeader {
+    font-weight: bolder;
+    border: none;
+}
+
+.CustomerDetailViewItem {
+    text-align: left;
+    text-indent: 10px;
+    border: none;
+}
+
+
+
+#Content_LowerBody 
+{
+}
+
+#lblRegConfirm {
+    font-size:30px;
+    color: green;
+}
+
+
+.panel-transparent {
+	background: none;
+}
+
+.panel-transparent .panel-heading{
+    background: rgba(122, 130, 136, 0.3)!important;
+}
+
+.panel-transparent .panel-body{
+    background: rgba(246, 251, 256, 0.3)!important;
+}
+
+.panel, .panel-group .panel-heading+.panel-collapse>.panel-body{
+    border: none;
+    background: #d9edf7;
+}
+
+  
+  
+  
+}
